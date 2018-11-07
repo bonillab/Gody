@@ -1,0 +1,37 @@
+img = [['img/1.png',400, 'A'],['img/2.png',330, 'B'],['img/3.png',280, 'C'],['img/4.png',200, 'D']]
+font = [['img/a.png'],['img/b.png'],['img/c.png'],['img/d.png']]
+
+CURSOR = (
+        "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  ",
+        "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ",
+        "XXX.........................XXXX",
+        "XXX..........................XXX",
+        "XXX..........................XXX",
+        "XXX.........................XXXX",
+        "XXX.......XXXXXXXXXXXXXXXXXXXXX ",
+        "XXX........XXXXXXXXXXXXXXXXXXX  ",
+        "XXX.........XXX                 ",
+        "XXX..........XXX                ",
+        "XXX...........XXX               ",
+        "XXX....X.......XXX              ",
+        "XXX....XX.......XXX             ",
+        "XXX....XXX.......XXX            ",
+        "XXX....XXXX.......XXX           ",
+        "XXX....XXXXX.......XXX          ",
+        "XXX....XXXXXX.......XXX         ",
+        "XXX....XXX XXX.......XXX        ",
+        "XXX....XXX  XXX.......XXX       ",
+        "XXX....XXX   XXX.......XXX      ",
+        "XXX....XXX    XXX.......XXX     ",
+        "XXX....XXX     XXX.......XXX    ",
+        "XXX....XXX      XXX.......XXX   ",
+        "XXX....XXX       XXX.......XXX  ",
+        "XXX....XXX        XXX.......XXX ",
+        "XXX....XXX         XXX.......XXX",
+        "XXX....XXX          XXX......XXX",
+        "XXX....XXX           XXX.....XXX",
+        "XXX....XXX            XXX...XXXX",
+        " XXX..XXX              XXXXXXXX ",
+        "  XXXXXX                XXXXXX  ",
+        "   XXXX                  XXXX   "
+)
